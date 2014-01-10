@@ -1,4 +1,10 @@
 #BlueJ class context
 comment0.params=args
 comment0.target=void\ main(java.lang.String[])
-numComments=1
+comment1.params=resultSet
+comment1.target=void\ writeMetaData(java.sql.ResultSet)
+comment2.params=resultSet
+comment2.target=void\ writeResultSet(java.sql.ResultSet)
+comment3.params=
+comment3.target=void\ close()
+numComments=4
